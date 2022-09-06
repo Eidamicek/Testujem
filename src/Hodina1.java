@@ -6,5 +6,8 @@ public class Hodina1 {
         System.out.println("Napíš niečo");
         int a = scanner.nextInt();
         System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+
     }
 }
